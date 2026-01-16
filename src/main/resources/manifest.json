@@ -1,0 +1,12 @@
+{
+  "Group": "dev.ilgax",
+  "Name": "CustomSpeed",
+  "Version": "1.2.0",
+  "Description": "Adjusts the game speed for accessibility or increased challenge.",
+  "Authors": [
+    {
+      "Name": "ilgax"
+    }
+  ],
+  "Main": "dev.ilgax.hytale.customspeed.CustomSpeedPlugin"
+}
